@@ -5,6 +5,10 @@ authors = ["George Venn (Npex42) <npex42@gmail.com>"]
 edition = "2018"
 
 description = "The Npex-ltd Core Rust Library"
+license-file = "LICENSE.txt"
+documentation = "https://github.com/NPEX-Ltd/np_core"
+homepage = "https://github.com/NPEX-Ltd/np_core"
+repository = "https://github.com/NPEX-Ltd/np_core"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
