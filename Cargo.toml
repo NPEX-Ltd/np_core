@@ -1,0 +1,12 @@
+[package]
+name = "np_core"
+version = "0.1.0"
+authors = ["George Venn (Npex42) <npex42@gmail.com>"]
+edition = "2018"
+
+description = "The Npex-ltd Core Rust Library"
+cd 
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
